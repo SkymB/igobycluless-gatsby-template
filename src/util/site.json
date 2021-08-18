@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "igobycluless",
-    "titleTemplate": "%s",
+    "titleTemplate": "igobycluless",
     "description": "Amateur Art Blog. \nMade with ❤ by Stackrole",
     "siteUrl": "https://igobycluless.netlify.app",
-    "image": "/assets/logo.png",
-    "iconimage": "/assets/logo.png",
+    "image": "/assets/stick-figure.svg",
+    "iconimage": "/assets/stick-figure.svg",
     "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
