@@ -4,8 +4,8 @@
     "titleTemplate": "igobycluless",
     "description": "Amateur Art Blog. \nMade with ❤ by Stackrole",
     "siteUrl": "https://igobycluless.netlify.app",
-    "image": "/assets/stick-figure.svg",
-    "iconimage": "/assets/stick-figure.svg",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/logo.png",
     "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
