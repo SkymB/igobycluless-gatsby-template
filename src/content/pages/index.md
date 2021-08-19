@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: igobycluless
 tagline: Amateur Artist
-featuredImage: /assets/blank-image.jpg
+featuredImage: /assets/stick-figure-2.png
 cta:
   ctaText: Know more
   ctaLink: /about
