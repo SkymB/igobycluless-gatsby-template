@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: igobycluless
+title: Cluless' Amateur Art Blog
 tagline: Amateur Artist
 featuredImage: /assets/stick-figure-2.png
 cta:
