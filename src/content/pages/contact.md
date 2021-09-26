@@ -3,4 +3,4 @@ template: contact-page
 slug: /contact
 title: Contact Me
 ---
-Have a question for me? Feel free to ask! Doesn't mean I'll be able to give a good response, though.
+Have a question for me? Feel free to ask! Hopefully, I can help or answer as best as I can!
