@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About igobycluless
+title: About Cluless
 ---
 I don't really have a lot to say about myself right now. Basically everything in the intro is what there is to me.
 
