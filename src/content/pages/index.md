@@ -5,7 +5,7 @@ title: Cluless
 tagline: Amateur Artist
 featuredImage: /assets/stick-figure-2.png
 cta:
-  ctaText: Know more
+  ctaText: Know More
   ctaLink: /about
 ---
 Hello! Welcome to my amateur art blog!
