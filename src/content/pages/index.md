@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Cluless
 tagline: Amateur Artist
-featuredImage: /assets/stick-figure-2.png
+featuredImage: /assets/behindwall.jpg
 cta:
   ctaText: Know More
   ctaLink: /about
