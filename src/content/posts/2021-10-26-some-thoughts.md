@@ -5,7 +5,7 @@ slug: /some-thoughts
 date: 2021-10-26 11:20
 description: This is the website of Cluless; an amateur art blogger. These are
   just some thoughts on a piece I don't really like.
-featuredImage: /assets/reject.png
+featuredImage: /assets/reject-test-.png
 ---
 This is a bit different from my usual posts, I was contemplating whether to even make an entry about this but the entire point of this blog is to document my process, right?
 
