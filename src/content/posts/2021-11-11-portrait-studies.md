@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Portrait Studies
-slug: /Portrait-studies
+slug: /portrait-studies
 date: 2021-11-10 19:42
 description: This is the website of Cluless; an amateur art blogger. I've
   decided to start doing portrait studies. Here is my starting point
