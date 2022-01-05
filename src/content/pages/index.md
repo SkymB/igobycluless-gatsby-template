@@ -10,4 +10,4 @@ cta:
 ---
 Hello! Welcome to my amateur art blog!
 
-Why are you here? The new blog is over [here](igobyclulessart.wordpress.com).
+Why are you here? The new blog is over [here](www.igobyclulessart.wordpress.com).
